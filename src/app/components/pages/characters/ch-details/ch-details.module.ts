@@ -7,7 +7,7 @@ import { ChDetailsComponent } from './ch-details.component';
 
 @NgModule({
   declarations: [
-    ChDetailsComponent
+    // ChDetailsComponent
   ],
   imports: [
     CommonModule,

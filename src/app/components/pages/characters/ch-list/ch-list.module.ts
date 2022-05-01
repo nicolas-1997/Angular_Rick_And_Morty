@@ -7,7 +7,7 @@ import { ChListComponent } from './ch-list.component';
 
 @NgModule({
   declarations: [
-    ChListComponent
+    // ChListComponent
   ],
   imports: [
     CommonModule,
